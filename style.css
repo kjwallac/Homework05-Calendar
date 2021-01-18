@@ -33,11 +33,7 @@ textarea{
 .row {
   white-space: pre-wrap;
   height: 80px;
-  border: 5px solid black;
-}
-
-.col-6 {
-  text-align: center;
+  border-top: 1px solid white;;
 }
 
 .hour {

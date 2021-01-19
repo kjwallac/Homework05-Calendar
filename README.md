@@ -3,7 +3,7 @@ Repository for Homework 05 - Work Day Scheduler
 A simple calendar application
 
 ## Project Screen Shots
-![WorkDayScheduler](/WorkDayScheduler.png)
+![WorkDayScheduler](WorkDaySchedulerScreenshot.png)
 
 ## Work Day Scheduler instructions
 1. Open application and scroll down to view the hourly time blocks

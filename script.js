@@ -14,7 +14,7 @@ $(document).ready(function () {
   //loop through timeblocks
   $(".time-block").each((index, timeBlock) => {
     const hour = parseInt(timeBlock.id.split("-")[1]);
-    //add class to each timeblock based on timing
+    //add css class to each timeblock based on timing
     if (hour < currentHour) {
       $(timeBlock).addClass("past");
     } else if (hour > currentHour) {
